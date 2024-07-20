@@ -3,6 +3,7 @@ repeat task.wait() until game.Players
 repeat task.wait() until game.Players.LocalPlayer
 repeat task.wait() until game.Players.LocalPlayer:FindFirstChild("PlayerGui")
 repeat task.wait() until game.Players.LocalPlayer.PlayerGui:FindFirstChild("Main");
+_G.RemoveTrigonUi = true 
 _G.Team = "Pirate" -- Marine / Pirate
 getgenv().Script_Mode = "Kaitun_Script"
 _G.LogsDes = {
@@ -100,7 +101,7 @@ _G.SharkAnchor_Settings = {
 _G.GunSettings = { -- ปืนที่จะทำ
     ['Kabucha'] = false,
     ['SerpentBow'] = false,
-    ['SoulGuitar'] = false
+    ['SoulGuitar'] = true
 }
 getgenv().Key = "MARU-VJ0Y-82T7T-R2W4-20DVB-OFV3"
 getgenv().id = "1167066597890990172"
