@@ -99,8 +99,8 @@ _G.SharkAnchor_Settings = {
     ["Enabled_Farm"] = true,
 }
 _G.GunSettings = { -- ปืนที่จะทำ
-    ['Kabucha'] = true,
-    ['SerpentBow'] = true,
+    ['Kabucha'] = false,
+    ['SerpentBow'] = false,
     ['SoulGuitar'] = false
 }
 getgenv().Key = "MARU-VJ0Y-82T7T-R2W4-20DVB-OFV3"
