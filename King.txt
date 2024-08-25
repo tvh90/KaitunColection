@@ -1,0 +1,35 @@
+getgenv().Script_Mode = "Kaitun_Script"
+_G.Settings_Farm = {
+    ["Start_Farm"] = true,
+    ["Enabled_HOP"] = true,
+    ["Fruits_List"] = {
+        'RumbleRumble',
+        'FlameFlame',
+        'MagmaMagma',
+        'LightLight',
+        'GasGas',
+        'IceIce',
+        'SnowSnow',
+        'QuakeQuake',
+        'SpiritSpirit',
+        'PhoenixPhoenix',
+        'DoughDough',
+        'DragonDragon'
+    },
+    ["Enabled_Invisible"] = true,
+    ["Enabled_FastFarm"] = true,
+    ["Amount_FPS"] = 15,
+    ["LOCK_FPS"] = true,
+    ["WhiteScreen"] = true,
+    ["Disabled_Gui"] = false,
+}
+_G.Quests_Settings = {
+     ["V2Observation"] = false,
+     ["V2Aramament"] = false,
+     ["V2DarkLeg"] = false,
+     ["FarmRaid"] = false
+}
+getgenv().Key = "MARU-C598-KCI51-MR8H-2X6CW-QECN"
+getgenv().id = "1093871052112789586"
+getgenv().Script_Mode = "Kaitun_Script"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xshiba/MaruBitkub/main/Mobile.lua"))()
