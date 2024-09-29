@@ -18,7 +18,7 @@ _G.Settings_Farm = {
     },
     ["Enabled_Invisible"] = true,
     ["Enabled_FastFarm"] = true,
-    ["Amount_FPS"] = 20,
+    ["Amount_FPS"] = 30,
     ["LOCK_FPS"] = false,
     ["WhiteScreen"] = false,
     ["Disabled_Gui"] = false,
