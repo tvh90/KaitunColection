@@ -19,15 +19,15 @@ _G.Settings_Farm = {
     ["Enabled_Invisible"] = true,
     ["Enabled_FastFarm"] = true,
     ["Amount_FPS"] = 30,
-    ["LOCK_FPS"] = false,
-    ["WhiteScreen"] = false,
+    ["LOCK_FPS"] = true,
+    ["WhiteScreen"] = true,
     ["Disabled_Gui"] = false,
 }
 _G.Quests_Settings = {
-     ["V2Observation"] = false,
-     ["V2Aramament"] = false,
-     ["V2DarkLeg"] = false,
-     ["FarmRaid"] = false
+     ["V2Observation"] = true,
+     ["V2Aramament"] = true,
+     ["V2DarkLeg"] = true,
+     ["FarmRaid"] = true
 }
 getgenv().Key = "MARU-4V03-U3J4S-SNGG-F4HXI-IAAP"
 getgenv().id = "1167066597890990172"
