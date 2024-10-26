@@ -29,7 +29,7 @@ _G.Quests_Settings = {
      ["V2DarkLeg"] = true,
      ["FarmRaid"] = true
 }
-getgenv().Key = "MARU-4V03-U3J4S-SNGG-F4HXI-IAAP"
+getgenv().Key = "MARU-D47W-F2P6V-FLNV-ITX5S-GW9U"
 getgenv().id = "1167066597890990172"
 getgenv().Script_Mode = "Kaitun_Script"
 loadstring(game:HttpGet("https://raw.githubusercontent.com/xshiba/MaruBitkub/main/Mobile.lua"))()
