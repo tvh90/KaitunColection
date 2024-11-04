@@ -63,8 +63,7 @@ _G.Mastery = {
 -- Setting / ตั้งค่าหลัก
 _G.Setting = {
     ['FPS Booster'] = true,
-    ['Auto Close Ui'] = false,
-    ['Black Screen'] = true
+    ['Auto Close Ui'] = false
 }
 script_key="LiUcsnYTwYsiWrMkyZGLCHJnmPXzHRDV";
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/58876769bc015b00b9a3008484e99085.lua"))()
