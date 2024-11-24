@@ -31,7 +31,7 @@ _G.KaitunConfig = {
 
     ["RedeemCode Level"] = 2,
 
-    ["white screen"] = false, -- will go white on not focus
+    ["white screen"] = true, -- will go white on not focus
 
     ["Ui Screen"] = true,
 
