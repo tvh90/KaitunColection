@@ -35,7 +35,7 @@ _G.KaitunConfig = {
 
     ["Ui Screen"] = true,
 
-    ["LimitFragment"] = 100000,
+    ["LimitFragment"] = 200000,
 
     -- item
 
@@ -90,13 +90,13 @@ _G.KaitunConfig = {
     ["Select Rarity"] = {"Mythical","Legendary"}, -- Common , Uncommon,Rare,Legendary,Mythical
 
     -- Fruit
-    ["Select Main Devil Fruit Sniper"] = {"Dragon-Dragon","Spirit-Spirit","Magma-Magma","Venom-Venom","Dough-Dough"}, -- if have will eat
-    ["Select Sub Devil Fruit Sniper"] = {"Ice-Ice","Sand-Sand","Dark-Dark","Magma-Magma","Quake-Quake","Light-Light"}, -- will eat if not have main fruit
-    ["Allow Eat Fruit In Inventory"] = true,
+    ["Select Main Devil Fruit Sniper"] = {"Dough-Dough"}, -- if have will eat
+    ["Select Sub Devil Fruit Sniper"] = {"Flame-Flame", "Ice-Ice", "Quake-Quake", "Light-Light", "Dark-Dark", "Spider-Spider", "Rumble-Rumble", "Magma-Magma", "Buddha-Buddha"}, -- will eat if not have main fruit
+    ["Allow Eat Fruit In Inventory"] = false,
     ["Start Sniper"] = true,
     
     -- Fruit2
-    ["Safe Fruit"] = {"Dragon-Dragon","Spirit-Spirit","Venom-Venom","Dough-Dough"}, -- will not use this fruit to raids or anyting
+    ["Safe Fruit"] = {"Dragon-Dragon","Kitsune-Kitsune","Leopard-Leopard","Dough-Dough","T-rex-T-rex","Mammoth-Mammoth","Venom-Venom","Spirit-Spirit","Shadow-Shadow","Portal-Portal","Buddha-Buddha","Control-Control","Gravity-Gravity","Rumble-Rumble"}, -- will not use this fruit to raids or anyting
 
     -- Webhook
     ["Link Webhook"] = "",
