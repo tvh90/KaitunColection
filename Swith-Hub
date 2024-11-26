@@ -64,7 +64,7 @@ _G.Mastery = {
 _G.Setting = {
     ['FPS Booster'] = true,
     ['Auto Close Ui'] = true,
-    ['White Screen'] = true
+    ['Black Screen'] = true
 }
 script_key="LiUcsnYTwYsiWrMkyZGLCHJnmPXzHRDV";
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/58876769bc015b00b9a3008484e99085.lua"))()
